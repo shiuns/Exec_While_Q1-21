@@ -17,7 +17,7 @@ namespace _作業_Exec_While_Q1____21謝孟勳
             while (true)
             { 
                 sum += number;
-                if (sum >= 190 )
+                if (sum >= 105 )
                     break;
                 number++;
             }
